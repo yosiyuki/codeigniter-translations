@@ -1,21 +1,21 @@
-<?php
+﻿<?php
 
-$lang['upload_userfile_not_set'] = "Unable to find a post variable called userfile.";
-$lang['upload_file_exceeds_limit'] = "The uploaded file exceeds the maximum allowed size in your PHP configuration file.";
-$lang['upload_file_exceeds_form_limit'] = "The uploaded file exceeds the maximum size allowed by the submission form.";
-$lang['upload_file_partial'] = "The file was only partially uploaded.";
-$lang['upload_no_temp_directory'] = "The temporary folder is missing.";
-$lang['upload_unable_to_write_file'] = "The file could not be written to disk.";
-$lang['upload_stopped_by_extension'] = "The file upload was stopped by extension.";
-$lang['upload_no_file_selected'] = "You did not select a file to upload.";
-$lang['upload_invalid_filetype'] = "The filetype you are attempting to upload is not allowed.";
-$lang['upload_invalid_filesize'] = "The file you are attempting to upload is larger than the permitted size.";
-$lang['upload_invalid_dimensions'] = "The image you are attempting to upload exceedes the maximum height or width.";
-$lang['upload_destination_error'] = "A problem was encountered while attempting to move the uploaded file to the final destination.";
-$lang['upload_no_filepath'] = "The upload path does not appear to be valid.";
-$lang['upload_no_file_types'] = "You have not specified any allowed file types.";
-$lang['upload_bad_filename'] = "The file name you submitted already exists on the server.";
-$lang['upload_not_writable'] = "The upload destination folder does not appear to be writable.";
+$lang['upload_userfile_not_set'] = "Không thể tìm được tập tin.";
+$lang['upload_file_exceeds_limit'] = "Dung lượng tập tin vượt quá giới hạn cho phép bên trong tập tin cấu hình PHP.";
+$lang['upload_file_exceeds_form_limit'] = "Dung lượng tập tin vượt quá giới hạn cho phép.";
+$lang['upload_file_partial'] = "Tập tin đã được tải lên không hoàn chỉnh.";
+$lang['upload_no_temp_directory'] = "Không tìm thấy thư mục tạm.";
+$lang['upload_unable_to_write_file'] = "Không thể ghi tập tin vào đĩa.";
+$lang['upload_stopped_by_extension'] = "Tập tin bạn tải lên đã bị dừng lại do quá thời gian.";
+$lang['upload_no_file_selected'] = "Bạn chưa chọn tập tin nào.";
+$lang['upload_invalid_filetype'] = "Kiểu tập tin không hợp lệ.";
+$lang['upload_invalid_filesize'] = "Tập tin bạn tải lên vượt quá dung lượng cho phép.";
+$lang['upload_invalid_dimensions'] = "Hình ảnh bạn tải lên vượt quá kích thước cho phép.";
+$lang['upload_destination_error'] = "Đã có vấn đề phát sinh khi di chuyển tập tin.";
+$lang['upload_no_filepath'] = "Đường dẫn đến tập tin không hợp lý.";
+$lang['upload_no_file_types'] = "Bạn không ghi rõ loại của tập tin.";
+$lang['upload_bad_filename'] = "Tên tập tin đã tồn tại.";
+$lang['upload_not_writable'] = "Không thể ghi vào thư mục tải lên.";
 
 
 /* End of file upload_lang.php */
